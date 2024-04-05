@@ -1,0 +1,50 @@
+#footer{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+
+}
+
+#good-range{
+    text-align: center;
+}
+
+#clients{
+    display: flex;
+    justify-content: space-evenly;
+}
+#two{
+    width: 8%;
+    height: 6%;
+    border-radius: 30px;
+    
+}
+#three{
+    width: 8%;
+    height: 2%;
+    border-radius: 50px;
+
+}
+
+#love-our-clients{
+    text-align: center;
+}
+
+#four{
+    width: 8%;
+    height: 5%;
+    border-radius: 50px;
+}
+
+#latest-from-blog{
+    display: flex;
+}
+
+#cactus-tree{
+    display: flex;
+}
+
+#fourPotsOne{
+    display: flex;
+
+}
